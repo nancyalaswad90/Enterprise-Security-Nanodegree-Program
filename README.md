@@ -1,1 +1,3 @@
-# Enterprise-Security-Nanodegree-Program
+.
+
+# Enterprise Security Nanodegree Program
